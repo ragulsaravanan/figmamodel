@@ -1,0 +1,254 @@
+.navbar-brand{
+    font-family: "VT323", monospace;
+}
+.navbar-default {
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
+  margin-bottom: 0;
+}
+
+.content1{
+  padding-top: 90px;
+  color: white;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 38px;
+  width: 400px;
+  margin-left: 80px;
+ 
+}
+.content{
+background-image: url("image.png");
+height: 80vh; 
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.emailsection{
+  margin-left: 80px;
+  margin-top: 50px;
+ 
+
+}
+.email{
+  background-color: rgb(42, 39, 39);
+  border: 0;
+  height: 5vh;
+width: 20vw;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+
+}
+.btnget{
+  border: 0;
+  height: 5vh;
+  font-weight: bold;
+  color: black;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.page2{
+ width: 100%;
+  height: 50vh;
+  position: relative;
+  padding-top: 50px;
+  padding-right: 20px;
+  padding-left: 20px;
+
+}
+.name{
+  text-align: center;
+    font-weight: 800;
+    color: black;
+    font-size: 40px;
+    padding: 0 180px;
+    margin: 0 50px;
+    line-height: 40px;
+  
+}
+.name1{
+  font-size: 30px;
+  margin: 30px 30px;
+  text-align: center;
+  
+  color: gray;
+}
+.col-12{
+  background-color: lightblue;
+  line-height: 30px;
+}
+.h3{
+  font-weight: 800;
+}
+.ourservices{
+  margin-left: 450px;
+  margin-top: 100px;
+ 
+  width: 700px;
+  font-size: 30px;
+  color: gray;
+  text-align: center;
+  font-weight: 300;
+}
+
+.ourservimage{
+  text-align: center;
+  color: #004C6D;
+  font-size: 20px;
+  margin-left: 300px;
+  margin-top: 50px;
+  margin-right: 100px;
+  width: 500px;
+  display: inline-block;
+}
+.h2{
+  margin-top: 50px;
+  margin-left: 400px;
+font-weight: 900;
+font-size: 50px;
+}
+.cloud{
+  margin-top: 50px;
+}
+.h2cloud{
+  margin-top: 50px;
+  margin-left: 850px;
+font-weight: 900;
+font-size: 50px;
+}
+.cloudsol{
+  margin-left: 200px;
+  display: inline-block;
+}
+.cloudsolution{
+  text-align: center;
+  color: #004C6D;
+  font-size: 20px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-right: 100px;
+  width: 500px;
+  display: inline-block;
+}
+.btn{
+  background-color: #7DF9FF;
+  color: #004C6D;
+  margin-right: 20px;
+}
+.btn1{
+  background-color: #004C6D;;
+  color: white;
+  margin-top: 30px;
+  width: 150px;
+  border-radius: 10px;
+}
+.credibility{
+  margin: 100px 100px;
+}
+.credibility1{
+  width: 250px;
+  border-color: black;
+  border-width: 1PX;
+  border-style: solid;
+  padding: 20px;
+  display: inline-block;
+  margin-left: 200px;
+}
+.credibilityimage{
+  margin-left: 20px;
+}
+h6{
+  font-weight: 900;
+  margin-left: 70px;
+  margin-top: 10px;
+}
+.cto{
+  margin-left: 70px;
+}
+.credibilityline{
+  text-align: center;
+}
+.credibility2{
+  height: 300px;
+  width: 250px;
+  border-color: black;
+  border-width: 1PX;
+  border-style: solid;
+  padding: 20px;
+  display: inline-block;
+  margin-left: 80px;
+}
+.credibility3{
+  
+  width: 250px;
+  border-color: black;
+  border-width: 1PX;
+  border-style: solid;
+  padding: 20px;
+  display: inline-block;
+  margin-left: 80px;
+}
+.credibility4{
+  height: 300px;
+  width: 250px;
+  border-color: black;
+  border-width: 1PX;
+  border-style: solid;
+  padding: 20px;
+  display: inline-block;
+  margin-left: 200px;
+}
+.credibility5{
+  
+  width: 250px;
+  border-color: black;
+  border-width: 1PX;
+  border-style: solid;
+  padding: 20px;
+  display: inline-block;
+  margin-left: 80px;
+}
+.credibility6{
+  height: 300px;
+  width: 250px;
+  border-color: black;
+  border-width: 1PX;
+  border-style: solid;
+  padding: 20px;
+  display: inline-block;
+  margin-left: 80px;
+}
+.workp{
+  font-weight: 900;
+  font-size: 40px;
+  margin-left: 50px;
+  margin-top: 100px;
+  text-align: center;
+
+}
+
+.btn2{
+  background-color: #7DF9FF;
+  color: #004C6D;
+ margin-left: 700px;
+ border:3px;
+  border-color:#004C6D ;
+  border-style: solid;
+ padding: 10px 40px;
+margin-bottom: 150px;
+}
+.footer{
+  height: 500px;
+  background-color: #eae3e3;
+}
+.Group{
+margin-left: 140px;
+margin-top:50px ;
+}
+.Group1{
+  margin-left: 200px;
+  margin-top:50px ;
+  }
+  
